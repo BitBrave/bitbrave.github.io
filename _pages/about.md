@@ -13,8 +13,8 @@ profile:
     <p>+8618222797983</p>
     <p>Beijing</p>
 
-news: false # true  # includes a list of news items
-latest_posts: false # true  # includes a list of the newest posts
+news: true # true  # includes a list of news items
+latest_posts: true # true  # includes a list of the newest posts
 selected_papers: true # true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
