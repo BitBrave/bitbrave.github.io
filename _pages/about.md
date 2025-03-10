@@ -19,7 +19,15 @@ selected_papers: true # true # includes a list of papers marked as "selected={tr
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received the B.Eng. from Nankai University, China, in 2018, and the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences, in 2023. My research interests include network security and artificial intelligence, in particular, intrusion detection and defense about APT (Advanced Persistent Threat).
+<!-- I received the B.Eng. from Nankai University, China, in 2018, and the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences, in 2023. My research interests include network security and artificial intelligence, in particular, intrusion detection and defense about APT (Advanced Persistent Threat). -->
+
+I received the B.Eng. from Nankai University, China, in 2018, and the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences, in 2023. My research interests encompass network security and artificial intelligence, with a particular emphasis on intrusion detection and defense against Advanced Persistent Threats (APTs). 
+
+Currently, I am working at Zhongguancun Laboratory in Beijing, where I conduct research in cyberspace security. My primary research areas include:
+
+Intrusion Detection: Developing innovative intrusion detection techniques to enhance the ability to identify network attacks.
+APT Defense: Analyzing the characteristics and tactics of APT attacks to develop effective defense strategies and technologies.
+Multi-Step Attack Research and Application: Conducting cutting-edge research on complex multi-step attacks within networks, and focusing on the practical application of these findings to strengthen real-world network security defenses.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
